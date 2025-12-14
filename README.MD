@@ -1,6 +1,6 @@
 # 3D Model Renderer in OpenGL
 
-A computer graphics project by Mordechai Lashansky for my [Your Course Name, e.g., "Computer Graphics"] course at [Your University]. This application is a 3D model viewer built using C++ and OpenGL, demonstrating a wide range of real-time rendering techniques.
+A computer graphics project by Mordechai Lashansky for my [Your Course Name, e.g., "Computer Graphics"] course at [Bar Ilan University]. This application is a 3D model viewer built using C++ and OpenGL, demonstrating a wide range of real-time rendering techniques.
 
 ## 🚀 Key Features
 
