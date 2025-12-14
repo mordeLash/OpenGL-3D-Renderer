@@ -1,0 +1,41 @@
+# ----------------------------------------------------------------------
+# Visual Studio & Build Output
+# ----------------------------------------------------------------------
+# Ignore the hidden .vs folder (contains user preferences and IntelliSense)
+.vs/
+
+# Ignore build output directories
+Debug/
+Release/
+x64/
+x86/
+build/
+bin/
+obj/
+
+# Ignore Visual Studio User-specific setting files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ----------------------------------------------------------------------
+# Compiled Binaries & Intermediate Files
+# ----------------------------------------------------------------------
+*.exe
+*.obj
+*.o
+*.pdb
+*.idb
+*.ilk
+*.ipch
+*.aps
+*.tlog
+*.log
+
+# ----------------------------------------------------------------------
+# Operating System Files
+# ----------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
