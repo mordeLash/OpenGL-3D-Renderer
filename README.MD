@@ -2,9 +2,6 @@
 
 A computer graphics project by Mordechai Lashansky for my [Your Course Name, e.g., "Computer Graphics"] course at [Your University]. This application is a 3D model viewer built using C++ and OpenGL, demonstrating a wide range of real-time rendering techniques.
 
-![Project Screenshot](link-to-your-image.png)
-*(Replace the line above with your actual image link, following the steps in the next section.)*
-
 ## 🚀 Key Features
 
 This renderer implements several fundamental and advanced graphics concepts from the ground up:
